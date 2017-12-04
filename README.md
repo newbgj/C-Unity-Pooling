@@ -3,7 +3,7 @@ C# Unity Pooling
 
   using Newb.GJ.Pooling.Component;
 	
-  Pool<PoolableSampleComponent> pool = new Pool<PoolableSampleComponent>();
+  Pool&#60;PoolableSampleComponent&#62; pool = new Pool&#60;PoolableSampleComponent&#62;();
 	
   PoolableSampleComponent original;
 	
